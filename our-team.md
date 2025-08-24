@@ -19,7 +19,8 @@
 ###### ญี่ปุ่น เพราะว่า เมืองสวย มีแมวน่าเยอะ อาหารถูกปาก
 #### เพลงที่บ่งบอกตัวคุณ : 
 ###### <a href="https://www.youtube.com/watch?v=XjlSBN82hfo&list=RDXjlSBN82hfo&start_radio=1">link text</a>
-<img width="893" height="482" alt="image" src="https://github.com/user-attachments/assets/1afdf60c-3dbc-41c2-9000-eb7845afa738" />
+<img width="895" height="298" alt="image" src="https://github.com/user-attachments/assets/c999cfb9-2fa0-4fb6-9e2a-aa039bb842ea" />
+
 
 
 ## สัมภาษณ์โดย 68130500010 เจษฎาพร จันทร์ประเสริฐ
