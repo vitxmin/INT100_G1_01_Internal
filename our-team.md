@@ -35,6 +35,6 @@
 
 Contact
 
-https://cdn.discordapp.com/attachments/1408096266977804398/1409132542317297737/IMG_1026.png?ex=68ac4472&is=68aaf2f2&hm=8059d6465dde3a1889e1bf47d31211e91950dd964d423d9efa1b47af78a8cbb6
+
 
 สัมภาษณ์โดย  นางสาวจุฑาภรณ์ แซ่จ้อง
