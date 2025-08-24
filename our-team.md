@@ -22,4 +22,9 @@
 
 9.ถ้ามีโอกาสไปเที่ยวที่ไหนก็ได้ที่นึง จะไปที่ไหน เพราะอะไร : ไปดูแสงเหนือที่ไหนสักแห่งบนโลก เพราะอยากเห็นความสวยงามของแสงเหนือด้วยตาของตัวเองจริงๆ สักครั้ง
 
+เพลงที่บ่งบอกตัวเอง :
+<a href="https://youtu.be/PCDYbzbYP4w?si=0WY0OW_i2Sc77GtN">PUN - Perfect (feat. 1MILL)</a>
+
+<a href="https://www.instagram.com/ddaonuea.a/"><img src="https://github.com/user-attachments/assets/d990e7ed-5e20-4284-ab4e-adc0ce33886e"></a>
+
 สัมภาษณ์โดย 062 มีบุญ หุนเจริญ (หมิง)
