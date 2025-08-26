@@ -22,7 +22,7 @@
 ###### ญี่ปุ่น เพราะว่า เมืองสวย มีแมวน่าเยอะ อาหารถูกปาก
 #### เพลงที่บ่งบอกตัวคุณ : 
 ###### <a href="https://www.youtube.com/watch?v=XjlSBN82hfo&list=RDXjlSBN82hfo&start_radio=1">link text</a>
-<img width="895" height="298" alt="image" src="https://github.com/user-attachments/assets/c999cfb9-2fa0-4fb6-9e2a-aa039bb842ea" />
+<img width="895" height="298" alt="image" src="./images/Naming_ig.png" />
 
 
 
