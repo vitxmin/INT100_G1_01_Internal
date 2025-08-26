@@ -29,5 +29,5 @@
 
 #### 1เพลงบอกความเป็นตัวคุณ : <a href="url">[link text](https://youtu.be/fYD7YsSRHOY?si=Aaz116kvUk4yN5sB)</a> 🎵
 #### Contact
-<img width="919" height="272" alt="image" src="https://github.com/user-attachments/assets/c0170755-ea0a-4b0e-ace8-999aa7b5f30d" />
+<img width="919" height="272" alt="image" src="./images/GunnerImg.png" />
 ### สัมภาษณ์โดย ญาราภรณ์ อิ่มอารมย์ 68130500015 
