@@ -25,6 +25,6 @@
 เพลงที่บ่งบอกตัวเอง :
 <a href="https://youtu.be/PCDYbzbYP4w?si=0WY0OW_i2Sc77GtN">PUN - Perfect (feat. 1MILL)</a>
 
-<a href="https://www.instagram.com/ddaonuea.a/"><img src="https://github.com/user-attachments/assets/d990e7ed-5e20-4284-ab4e-adc0ce33886e"></a>
+<a href="https://www.instagram.com/ddaonuea.a/"><img src="./images/dao.png"></a>
 
 สัมภาษณ์โดย 062 มีบุญ หุนเจริญ (หมิง)
