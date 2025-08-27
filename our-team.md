@@ -23,7 +23,7 @@
 ประเทศใดก็ได้ที่มีคอนOasis เพราะอยากดูซักครั้งในชีวิต
 ### 1 เพลงที่บ่งบอกความเป็นตัวคุณ : <a href="url">[link text](https://youtu.be/9YU94V1q4c8?si=O_Mugitf3U4aRcYe)</a> 🎵:
 ### Contact <a href="url">[link text](https://www.instagram.com/petanque.05?igsh=MTkyZW01Z3V3eTJkOA%3D%3D&utm_source=qr)</a> 🔗:
-<img src="./images/Petong.png">
+<img src="./images/Petong_IG.png">
 
 สัมภาษณ์โดย 68130500033-นะโม (🙏)
 =======
