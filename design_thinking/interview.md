@@ -160,3 +160,5 @@ Think: ปรับปรุงห้องน้ำชาย, เพิ่ม�
 <img src="./images/ideninsight.jpg/">
 <img src="./images/pov.jpg/">
 <img src="./images/brainstorm.jpg/">
+<img src="./images/ratdel.jpg/">
+<img src="./images/darlong.jpg/">
