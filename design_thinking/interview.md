@@ -218,4 +218,7 @@ Think: ปรับปรุงห้องน้ำชาย, เพิ่ม�
   #### - สัมภาษณ์ที่ศูนย์กีฬา , รับหน้า what how why , เขียน storytelling , Manage issues
   ## Meeboon Hoonchareon 68130500062
   #### - สัมภาษณ์ที่ศูนย์กีฬา, Draw Journey Map, Make Prototype
+  ## Nitid Thungtong 68130500038
+  #### - interview,wrote identified insight part,group presentation
+
 
