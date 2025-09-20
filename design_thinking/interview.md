@@ -220,5 +220,6 @@ Think: ปรับปรุงห้องน้ำชาย, เพิ่ม�
   #### - สัมภาษณ์ที่ศูนย์กีฬา, Draw Journey Map, Make Prototype
   ## Nitid Thungtong 68130500038
   #### - interview,wrote identified insight part,group presentation
-
+  ## Juthaporn Saejong 68130500009
+  #### - write Say Do Feel Think , Draw storyboard
 
