@@ -210,3 +210,8 @@ Think: ปรับปรุงห้องน้ำชาย, เพิ่ม�
 - Prototypeเห็นภาพ
 - Slideสวย
 - Ideaน่าสนใจเอาอะไรที่ทำได้จริง
+
+  # Contribution to this assignment
+  ## Yaraporn Imarom 68130500015
+  #### -  Manage repo/issues , Write User Persona , Make Prototype , Presentation
+
