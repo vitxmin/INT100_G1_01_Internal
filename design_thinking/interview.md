@@ -214,4 +214,13 @@ Think: ปรับปรุงห้องน้ำชาย, เพิ่ม�
   # Contribution to this assignment
   ## Yaraporn Imarom 68130500015
   #### -  Manage repo/issues , Write User Persona , Make Prototype , Presentation
-
+  ## Jestsadaporn Chanprasert 68130500010
+  #### - สัมภาษณ์ที่ศูนย์กีฬา , รับหน้า what how why , เขียน storytelling , Manage issues
+  ## Meeboon Hoonchareon 68130500062
+  #### - สัมภาษณ์ที่ศูนย์กีฬา, Draw Journey Map, Make Prototype
+  ## Nitid Thungtong 68130500038
+  #### - interview,wrote identified insight part,group presentation
+  ## Juthaporn Saejong 68130500009
+  #### - write Say Do Feel Think , Draw storyboard
+  ## Teeraphat Tangphithaksakul 68130500033
+  #### - เขียน Problem Statement , ช่วย Discuss and Brainstorm
