@@ -1,5 +1,6 @@
 =======
-# Script Interview 🚶
+# Empathize 🫶
+## Script Interview 🚶
 สวัสดีครับ ขอบคุณนะครับที่สละเวลามาให้สัมภาษณ์กับพวกเรานะครับ วันนี้อยากะถามประสบการณ์ที่เกี่ยวข้องกับการใช้ศูนย์กีฬา<br>
 เพื่อหาปัญหาและนำไปใช้ในนการพัฒนาแก้ไข ในการสัมภาษณ์พวกเราขออนุญาตอัดเสียง/เพื่อใช้เป็นข้อมูลใช้ในการสรุป<br>
 
@@ -24,7 +25,7 @@
 มีอะไรที่อยากให้ศูนย์กีฬาเพิ่มเติมไหม<br>
  (Interview) : (ตอบ)<br>
 ขอบคุณมากๆที่สละเวลาให้สัมภาษณ์ข้อมูลนะคะ/ครับ สิ่งที่ตอบคำถามจะเป็นประโยชนในการพัฒนาศูนย์กีฬาครับ
-# :star: หัวข้อ WHAT HOW WHY :star:
+## :star: หัวข้อ WHAT HOW WHY :star:
 ### Name : ที 
 ##### What : มาเล่นเกม เล่นกีฬา อาทิตย์ละ 5-6 วันในช่วงเวลาเย็น ที่ศูนย์กีฬา 
 ##### How : ตอนที่ถามเรื่องสนามบอลสามารถที่จะอธอิบายได้ละเอียด ลื่นไหลและน่าสนใจ มีน้ำเสียงที่ผ่อนคลายลง 
@@ -55,7 +56,7 @@
 ##### Why : มีความรู้และความเข้าใจในการใช้งานที่นี่อย่างแท้จริง เข้าใจอย่างเชิงลึก เพราะอธิบายถึงเหตุผลที่เกิดปัญหาได้ดี 
 
 =======
-# 🎵 SAY DO FEEL THINK 🎵
+## 🎵 SAY DO FEEL THINK 🎵
 
 🎧 น้องที อายุ 13 ปี 
 
@@ -140,7 +141,7 @@ Think: ถ้าโซนเวทใหญ่ขึ้นและเครื�
 
 ---------------------------------------------------------
 
-#สรุปจากการสัมภาษณ์ 🏀⛹️‍♀️
+### สรุปจากการสัมภาษณ์ 🏀⛹️‍♀️
 
 Say: สนามบอลดี, ความสะดวกและความปลอดภัย 👍
 
@@ -151,24 +152,34 @@ Feel: ชอบความสะดวกในการจองคิว 😊
 Think: ปรับปรุงห้องน้ำชาย, เพิ่มที่กันฝน 🌧️
 
 ---------------------------------------------------------
-
+# Ideation 🤔
+### User persona
 <img src="./images/userpersona.png"/>
+
+### Journey Map
 <img src="./images/journeymap2.jpg/">
+
+### Identify insights
 <img src="./images/ideninsight.jpg/">
+
+### PoV
 <img src="./images/pov.jpg/">
+
+### Brainstrom
 <img src="./images/brainstorm.jpg/">
 <img src="./images/ratdel.jpg/">
 <img src="./images/darlong.jpg/">
 
 --------------------------------------------------------
-# Test script: storytelling and storyboard
+# Prototype 📱
+## Test script: storytelling and storyboard
 ### storytelling
 ##### นายเอได้เข้าห้องน้ำที่ศูนย์กีฬา หลังจากเข้าห้องน้ำพบว่าห้องน้ำไม่สะอาดจึงเข้าไปในแอปพลิเคชั่นเพื่อร้องเรียนปัญหา
 ##### และนำเสนอห้องน้ำในรูปแบบที่ต้องการให้เป็นผ่านรูปแบบเสมือนจริง
 <img width="960" height="540" alt="image" src="./images/Storyboard .png"/>
 <img width="960" height="540" alt="image" src="./images/prototype.jpg"/>
 
-# Feedback (I wish/I like) ครั้งที่1
+## Feedback (I wish/I like) ครั้งที่1
 ### I wish
 - งงในส่วนของFeel
 - เนื้อหากว้างไป
@@ -186,7 +197,7 @@ Think: ปรับปรุงห้องน้ำชาย, เพิ่ม�
 - ชัดเจน คนพรีหล่อ
 - อธิบายสนุกทำให้เห็นภาพ
 - ชอบการนำเสนอ
-# Feedback (I wish/I like) ครั้งที่2
+## Feedback (I wish/I like) ครั้งที่2
 ### I wish
 - No picture for JourneyMap
 - JourneyMapเหมือนกราฟหุ้น
@@ -211,7 +222,7 @@ Think: ปรับปรุงห้องน้ำชาย, เพิ่ม�
 - Slideสวย
 - Ideaน่าสนใจเอาอะไรที่ทำได้จริง
 
-  # Contribution to this assignment
+  # Contribution to this assignment 🧑‍🤝‍🧑
   ## Yaraporn Imarom 68130500015
   #### -  Manage repo/issues , Write User Persona , Make Prototype , Presentation
   ## Jestsadaporn Chanprasert 68130500010
