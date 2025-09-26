@@ -153,10 +153,19 @@ Think: ปรับปรุงห้องน้ำชาย, เพิ่ม�
 
 ---------------------------------------------------------
 # Ideation 🤔
+### User persona
 <img src="./images/userpersona.png"/>
+
+### Journey Map
 <img src="./images/journeymap2.jpg/">
+
+### Identify insights
 <img src="./images/ideninsight.jpg/">
+
+### PoV
 <img src="./images/pov.jpg/">
+
+### Brainstrom
 <img src="./images/brainstorm.jpg/">
 <img src="./images/ratdel.jpg/">
 <img src="./images/darlong.jpg/">
